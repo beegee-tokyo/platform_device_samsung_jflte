@@ -82,6 +82,9 @@ PRODUCT_PACKAGES += \
     ueventd.qcom.rc \
     init.local.rc
 
+# Torch
+PRODUCT_PACKAGES += Torch
+
 # Wifi
 PRODUCT_PACKAGES += \
     libnetcmdiface \
